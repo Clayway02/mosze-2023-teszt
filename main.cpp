@@ -24,4 +24,6 @@ int main()
     std::cout << "Atlag: " << atlag << std::endl;
     delete[] b;
     return 0;
+
+    std::cout << "A kód lényege, hogy a számokat 1-100-ig megduplázza, összeadja és ezeket átlagolja";
 }
